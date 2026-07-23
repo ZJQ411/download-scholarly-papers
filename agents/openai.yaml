@@ -1,4 +1,4 @@
 interface:
-  display_name: "����������������"
-  short_description: "ͨ��ѧУ������֤�������ء�У�顢������������ѧ������ PDF"
+  display_name: "机构订阅论文下载"
+  short_description: "通过学校机构认证批量下载、校验、重命名并整理学术论文 PDF"
   default_prompt: "Use $download-scholarly-papers to download the supplied paper list through my institutional subscription and organize the verified PDFs."
