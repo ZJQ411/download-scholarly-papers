@@ -1,0 +1,4 @@
+interface:
+  display_name: "����������������"
+  short_description: "ͨ��ѧУ������֤�������ء�У�顢������������ѧ������ PDF"
+  default_prompt: "Use $download-scholarly-papers to download the supplied paper list through my institutional subscription and organize the verified PDFs."
