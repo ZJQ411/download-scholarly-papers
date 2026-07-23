@@ -64,9 +64,9 @@ Read [references/publisher-workflows.md](references/publisher-workflows.md) when
 
 ## Failure Handling
 
-- If the official IdP rejects the credentials, report the sign-in failure without echoing any credentials.
+- If the official IdP rejects the credentials, report the sign-in failure without echoing any credential.
 - If access is not covered by the subscription, try a lawful open-access or author manuscript source and label the version accurately.
-- If a security challenge or CAPTDCHA appears, stop and ask the user rather than bypassing it.
+- If a security challenge or CAPTCHA appears, stop and ask the user rather than bypassing it.
 - If the browser cannot export a fully loaded PDF, try the publisher's own wrapper/media download surface. Do not use session-cookie extraction as a workaround.
 - Keep unavailable items in the manifest with the exact reason. Do not create fake, screenshot-only, or unrelated PDFs.
 
